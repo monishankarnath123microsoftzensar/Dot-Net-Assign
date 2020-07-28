@@ -1,0 +1,7 @@
+Difference betw Console.Read, Console.ReadKey and Console.ReadLine.
+Ans: The only difference between the Read() and ReadLine() is that Console. 
+Read is used to read only single character from the standard output device, while Console.
+ReadLine is used to read a line or string from the standard output device.
+ReadKey() (returns a character): reads only one single character from the standard input stream or command line.
+Usually used when you're giving options to the user in the console to select from, such as select A, B or C.
+Another prominent example, Press Y or n to continue. 

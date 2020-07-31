@@ -5,3 +5,10 @@ E:\Dotnettraining\DotnetConsoleApps\Assignment1\Assignment1\obj\Debug\Assignment
 E:\Dotnettraining\DotnetConsoleApps\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
 E:\Dotnettraining\DotnetConsoleApps\Assignment1\Assignment1\obj\Debug\Assignment1.exe
 E:\Dotnettraining\DotnetConsoleApps\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+E:\Dotnettraining\Dot Net\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+E:\Dotnettraining\Dot Net\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+E:\Dotnettraining\Dot Net\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+E:\Dotnettraining\Dot Net\Assignment1\Assignment1\obj\Debug\Assignment1.csprojAssemblyReference.cache
+E:\Dotnettraining\Dot Net\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+E:\Dotnettraining\Dot Net\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+E:\Dotnettraining\Dot Net\Assignment1\Assignment1\obj\Debug\Assignment1.pdb

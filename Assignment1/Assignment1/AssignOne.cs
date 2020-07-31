@@ -36,10 +36,14 @@ namespace Assignment1
         {
            get { return breadth; }
           set { 
-            if(length == value)
+            if(value == length)
                 {
-                    breadth = value;
 
+                    Console.WriteLine("True");
+                    
+                }
+            else{
+                    breadth = value;
                 }
                     }
         }
@@ -61,7 +65,7 @@ namespace Assignment1
         static void Main(string[] args)
         {
             Quadrilateral sq = new Square(4);
-            Quadrilateral re = new Rectangle(5, 4);
+            Quadrilateral re = new Rectangle(6, 6);
             Console.WriteLine("Area SQ {0}",sq.Area());
             Console.WriteLine("Area RE {0}", re.Area());
            

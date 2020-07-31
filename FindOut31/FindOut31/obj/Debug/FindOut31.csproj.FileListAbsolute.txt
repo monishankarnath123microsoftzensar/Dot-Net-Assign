@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\FindOut31\FindOut31\obj\Debug\FindOut31.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\FindOut31\FindOut31\obj\Debug\FindOut31.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\FindOut31\FindOut31\bin\Debug\FindOut31.exe.config
+C:\Users\hp\source\repos\FindOut31\FindOut31\bin\Debug\FindOut31.exe
+C:\Users\hp\source\repos\FindOut31\FindOut31\bin\Debug\FindOut31.pdb
+C:\Users\hp\source\repos\FindOut31\FindOut31\obj\Debug\FindOut31.exe
+C:\Users\hp\source\repos\FindOut31\FindOut31\obj\Debug\FindOut31.pdb
+E:\Dotnettraining\Dot Net\FindOut31\FindOut31\bin\Debug\FindOut31.exe.config
+E:\Dotnettraining\Dot Net\FindOut31\FindOut31\bin\Debug\FindOut31.exe
+E:\Dotnettraining\Dot Net\FindOut31\FindOut31\bin\Debug\FindOut31.pdb
+E:\Dotnettraining\Dot Net\FindOut31\FindOut31\obj\Debug\FindOut31.csprojAssemblyReference.cache
+E:\Dotnettraining\Dot Net\FindOut31\FindOut31\obj\Debug\FindOut31.csproj.CoreCompileInputs.cache
+E:\Dotnettraining\Dot Net\FindOut31\FindOut31\obj\Debug\FindOut31.exe
+E:\Dotnettraining\Dot Net\FindOut31\FindOut31\obj\Debug\FindOut31.pdb

@@ -1,0 +1,12 @@
+Findout
+1. Explore the method of array
+Sort(Array)		It is used to sort the elements in an entire one-dimensional Array.
+Reverse(Array)		It is used to reverse the sequence of the elements in the entire one-dimensional Array.
+IndexOf(Array,Object)	It is used to search for the specified object and returns the index of its first occurrence in a one-dimensional array.
+Copy(Array,Array,Int32)	It is used to copy elements of an array into another array by specifying starting index.
+
+Examples done in FindOut31 folder
+
+2. Six methods of stringbuilder class
+
+Examples done in FindOut31 folder

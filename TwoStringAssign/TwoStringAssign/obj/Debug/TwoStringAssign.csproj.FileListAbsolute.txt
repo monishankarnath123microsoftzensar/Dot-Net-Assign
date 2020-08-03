@@ -1,0 +1,7 @@
+E:\Dotnettraining\DotnetConsoleApps\TwoStringAssign\TwoStringAssign\bin\Debug\TwoStringAssign.exe.config
+E:\Dotnettraining\DotnetConsoleApps\TwoStringAssign\TwoStringAssign\bin\Debug\TwoStringAssign.exe
+E:\Dotnettraining\DotnetConsoleApps\TwoStringAssign\TwoStringAssign\bin\Debug\TwoStringAssign.pdb
+E:\Dotnettraining\DotnetConsoleApps\TwoStringAssign\TwoStringAssign\obj\Debug\TwoStringAssign.csprojAssemblyReference.cache
+E:\Dotnettraining\DotnetConsoleApps\TwoStringAssign\TwoStringAssign\obj\Debug\TwoStringAssign.csproj.CoreCompileInputs.cache
+E:\Dotnettraining\DotnetConsoleApps\TwoStringAssign\TwoStringAssign\obj\Debug\TwoStringAssign.exe
+E:\Dotnettraining\DotnetConsoleApps\TwoStringAssign\TwoStringAssign\obj\Debug\TwoStringAssign.pdb

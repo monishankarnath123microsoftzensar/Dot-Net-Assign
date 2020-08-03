@@ -1,0 +1,8 @@
+Assignment 1
+Done in ConsoleAnimal/Program.cs 
+
+Assignment 2
+Done in ConsoleAnimal/InterfaceAssign.cs
+
+Assignment 3
+Done in TwoStringAssign folder

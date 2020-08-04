@@ -1,0 +1,32 @@
+1. Explore for
+	contains,copyto,count,getrange,indexof,lastindexof,insertrange,remove,
+	removeAt,removeRange,reverse,sort,clear.
+
+with example done in ConCollection\Program.cs
+
+2. Explore for
+	Stack= push,pop,peek,GetEnumerator
+
+with example done in ConCollection\StackQueue.cs
+
+3.Explore for
+	contains,containsKey,ContainsValue,copyto,keys properties,value properties
+
+with example done in ConCollection\DictionaryCollection.cs
+
+4.Assignment 1
+
+done in Assignment 04-08-2020\LinkedListAssign.cs
+
+5. Assignment 2
+
+done in Assignment 04-08-2020\Program.cs
+
+6. Explore
+	Dictionary
+	
+done in Explore 04-08-2020\DictionaryDemo.cs
+7. Explore
+	findindex,findlast,findlastindex,findall
+
+done in Explore 04-08-2020\Program.cs

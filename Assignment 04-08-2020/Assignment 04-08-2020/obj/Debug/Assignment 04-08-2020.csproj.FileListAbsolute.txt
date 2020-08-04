@@ -1,0 +1,7 @@
+E:\Dotnettraining\DotnetConsoleApps\Assignment 04-08-2020\Assignment 04-08-2020\bin\Debug\Assignment 04-08-2020.exe.config
+E:\Dotnettraining\DotnetConsoleApps\Assignment 04-08-2020\Assignment 04-08-2020\bin\Debug\Assignment 04-08-2020.exe
+E:\Dotnettraining\DotnetConsoleApps\Assignment 04-08-2020\Assignment 04-08-2020\bin\Debug\Assignment 04-08-2020.pdb
+E:\Dotnettraining\DotnetConsoleApps\Assignment 04-08-2020\Assignment 04-08-2020\obj\Debug\Assignment 04-08-2020.csprojAssemblyReference.cache
+E:\Dotnettraining\DotnetConsoleApps\Assignment 04-08-2020\Assignment 04-08-2020\obj\Debug\Assignment 04-08-2020.csproj.CoreCompileInputs.cache
+E:\Dotnettraining\DotnetConsoleApps\Assignment 04-08-2020\Assignment 04-08-2020\obj\Debug\Assignment 04-08-2020.exe
+E:\Dotnettraining\DotnetConsoleApps\Assignment 04-08-2020\Assignment 04-08-2020\obj\Debug\Assignment 04-08-2020.pdb

@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Explore_04_08_2020.DictionaryDemo</StartupObject>
+    <StartupObject>Explore_04_08_2020.SortedListGen</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

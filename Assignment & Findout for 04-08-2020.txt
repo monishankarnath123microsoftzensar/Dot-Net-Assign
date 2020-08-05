@@ -30,3 +30,5 @@ done in Explore 04-08-2020\DictionaryDemo.cs
 	findindex,findlast,findlastindex,findall
 
 done in Explore 04-08-2020\Program.cs
+8. sortedlist Explore
+done in Explore 04-08-2020\SortedListGen.cs

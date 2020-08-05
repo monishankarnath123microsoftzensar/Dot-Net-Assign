@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Assignment_04_08_2020.LinkedListAssign</StartupObject>
+    <StartupObject>Assignment_04_08_2020.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

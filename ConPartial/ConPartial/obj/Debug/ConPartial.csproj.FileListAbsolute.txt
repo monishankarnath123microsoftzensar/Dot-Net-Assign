@@ -1,0 +1,7 @@
+E:\Dotnettraining\DotnetConsoleApps\ConPartial\ConPartial\bin\Debug\ConPartial.exe.config
+E:\Dotnettraining\DotnetConsoleApps\ConPartial\ConPartial\bin\Debug\ConPartial.exe
+E:\Dotnettraining\DotnetConsoleApps\ConPartial\ConPartial\bin\Debug\ConPartial.pdb
+E:\Dotnettraining\DotnetConsoleApps\ConPartial\ConPartial\obj\Debug\ConPartial.csprojAssemblyReference.cache
+E:\Dotnettraining\DotnetConsoleApps\ConPartial\ConPartial\obj\Debug\ConPartial.csproj.CoreCompileInputs.cache
+E:\Dotnettraining\DotnetConsoleApps\ConPartial\ConPartial\obj\Debug\ConPartial.exe
+E:\Dotnettraining\DotnetConsoleApps\ConPartial\ConPartial\obj\Debug\ConPartial.pdb

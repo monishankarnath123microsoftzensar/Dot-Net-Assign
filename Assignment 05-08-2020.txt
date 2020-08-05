@@ -1,0 +1,24 @@
+1.Explore First,FirstOrDefault,All,Average,Any
+
+Done with example in ConPartial/ListExten.cs
+
+2.Explore stringenumerator ,stringdictionary, stringcollection, listdictionary, hybriddictionery
+
+Done with example in ConsoleSpecialized/Program.cs
+
+
+
+
+
+
+
+
+Difference between Hashtable & Dictionary
+Hashtable								Dictionary
+Hashtable is included in the System.Collections namespace.		Dictionary is included in the System.Collections.Generic namespace.
+Hashtable is a loosely typed (non-generic) collection, this 		Dictionary is a generic collection. So it can store key-value pairs of specific data types.
+means it stores key-value pairs of any data types.	
+Hashtable is thread safe.						Only public static members are thread safe in Dictionary.
+Hashtable returns null if we try to find a key which does not exist.	Dictionary throws an exception if we try to find a key which does not exist.
+Data retrieval is slower than dictionary because of boxing-unboxing.	Data retrieval is faster than Hashtable.
+

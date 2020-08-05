@@ -16,9 +16,10 @@ Done with example in ConsoleSpecialized/Program.cs
 Difference between Hashtable & Dictionary
 Hashtable								Dictionary
 Hashtable is included in the System.Collections namespace.		Dictionary is included in the System.Collections.Generic namespace.
-Hashtable is a loosely typed (non-generic) collection, this 		Dictionary is a generic collection. So it can store key-value pairs of specific data types.
-means it stores key-value pairs of any data types.	
-Hashtable is thread safe.						Only public static members are thread safe in Dictionary.
 Hashtable returns null if we try to find a key which does not exist.	Dictionary throws an exception if we try to find a key which does not exist.
 Data retrieval is slower than dictionary because of boxing-unboxing.	Data retrieval is faster than Hashtable.
 
+we should use the ListDictionary when we are certain the collection size will be less than 10 items.
+The HybridDictionary is pretty much the same as Dictionary but will take advantage of the performance of ListDictionary when the collection size is less that 10 items.
+Once the collection grows above 10 the HybridDictionary will switch from using ListDictionary internally to using a HashTable like an ordinary Dictionary.
+If collection is usually under 10 items but at times could grow larger, then HybridDictionary will be the one to use.

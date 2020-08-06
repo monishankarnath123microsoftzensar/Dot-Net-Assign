@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\ConLINQ\ConLINQ\bin\Debug\ConLINQ.exe.config
+C:\Users\hp\source\repos\ConLINQ\ConLINQ\bin\Debug\ConLINQ.exe
+C:\Users\hp\source\repos\ConLINQ\ConLINQ\bin\Debug\ConLINQ.pdb
+C:\Users\hp\source\repos\ConLINQ\ConLINQ\obj\Debug\ConLINQ.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\ConLINQ\ConLINQ\obj\Debug\ConLINQ.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ConLINQ\ConLINQ\obj\Debug\ConLINQ.exe
+C:\Users\hp\source\repos\ConLINQ\ConLINQ\obj\Debug\ConLINQ.pdb
+E:\Dotnettraining\DotnetConsoleApps\ConLINQ\ConLINQ\bin\Debug\ConLINQ.exe.config
+E:\Dotnettraining\DotnetConsoleApps\ConLINQ\ConLINQ\bin\Debug\ConLINQ.exe
+E:\Dotnettraining\DotnetConsoleApps\ConLINQ\ConLINQ\bin\Debug\ConLINQ.pdb
+E:\Dotnettraining\DotnetConsoleApps\ConLINQ\ConLINQ\obj\Debug\ConLINQ.csprojAssemblyReference.cache
+E:\Dotnettraining\DotnetConsoleApps\ConLINQ\ConLINQ\obj\Debug\ConLINQ.csproj.CoreCompileInputs.cache
+E:\Dotnettraining\DotnetConsoleApps\ConLINQ\ConLINQ\obj\Debug\ConLINQ.exe
+E:\Dotnettraining\DotnetConsoleApps\ConLINQ\ConLINQ\obj\Debug\ConLINQ.pdb

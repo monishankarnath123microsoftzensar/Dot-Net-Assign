@@ -1,0 +1,7 @@
+E:\Dotnettraining\DotnetConsoleApps\IOFileHandle\IOFileHandle\bin\Debug\IOFileHandle.exe.config
+E:\Dotnettraining\DotnetConsoleApps\IOFileHandle\IOFileHandle\bin\Debug\IOFileHandle.exe
+E:\Dotnettraining\DotnetConsoleApps\IOFileHandle\IOFileHandle\bin\Debug\IOFileHandle.pdb
+E:\Dotnettraining\DotnetConsoleApps\IOFileHandle\IOFileHandle\obj\Debug\IOFileHandle.csprojAssemblyReference.cache
+E:\Dotnettraining\DotnetConsoleApps\IOFileHandle\IOFileHandle\obj\Debug\IOFileHandle.csproj.CoreCompileInputs.cache
+E:\Dotnettraining\DotnetConsoleApps\IOFileHandle\IOFileHandle\obj\Debug\IOFileHandle.exe
+E:\Dotnettraining\DotnetConsoleApps\IOFileHandle\IOFileHandle\obj\Debug\IOFileHandle.pdb

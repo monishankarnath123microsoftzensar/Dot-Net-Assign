@@ -5,3 +5,10 @@ E:\Dotnettraining\DotnetConsoleApps\ConsoleSpecialized\ConsoleSpecialized\obj\De
 E:\Dotnettraining\DotnetConsoleApps\ConsoleSpecialized\ConsoleSpecialized\obj\Debug\ConsoleSpecialized.csproj.CoreCompileInputs.cache
 E:\Dotnettraining\DotnetConsoleApps\ConsoleSpecialized\ConsoleSpecialized\obj\Debug\ConsoleSpecialized.exe
 E:\Dotnettraining\DotnetConsoleApps\ConsoleSpecialized\ConsoleSpecialized\obj\Debug\ConsoleSpecialized.pdb
+E:\Dotnettraining\Dot Net\ConsoleSpecialized\ConsoleSpecialized\bin\Debug\ConsoleSpecialized.exe.config
+E:\Dotnettraining\Dot Net\ConsoleSpecialized\ConsoleSpecialized\bin\Debug\ConsoleSpecialized.exe
+E:\Dotnettraining\Dot Net\ConsoleSpecialized\ConsoleSpecialized\bin\Debug\ConsoleSpecialized.pdb
+E:\Dotnettraining\Dot Net\ConsoleSpecialized\ConsoleSpecialized\obj\Debug\ConsoleSpecialized.csprojAssemblyReference.cache
+E:\Dotnettraining\Dot Net\ConsoleSpecialized\ConsoleSpecialized\obj\Debug\ConsoleSpecialized.csproj.CoreCompileInputs.cache
+E:\Dotnettraining\Dot Net\ConsoleSpecialized\ConsoleSpecialized\obj\Debug\ConsoleSpecialized.exe
+E:\Dotnettraining\Dot Net\ConsoleSpecialized\ConsoleSpecialized\obj\Debug\ConsoleSpecialized.pdb

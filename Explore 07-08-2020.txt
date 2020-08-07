@@ -1,0 +1,4 @@
+Explore File class methods
+writealltext appendalltext readalltext copy delete
+
+Done in Explore 07-08-2020 folder 
